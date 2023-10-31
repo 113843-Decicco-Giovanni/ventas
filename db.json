@@ -2,6 +2,7 @@
     "ventas": [
         {
             "id": 1,
+            "idReserva" = 1,
             "fecha": "17/10/2023",
             "idCliente": 0,
             "detalles": [
@@ -29,6 +30,7 @@
         },
         {
             "id": 2,
+            "idReserva" = 2,
             "fecha": "15/10/2023",
             "idCliente": 0,
             "detalles": [
@@ -55,7 +57,8 @@
             "total": 174.77
         },
         {
-            "id": 2,
+            "id": 3,
+            "idReserva" = 3,
             "fecha": "17/10/2023",
             "idCliente": 1,
             "detalles": [
@@ -83,7 +86,8 @@
             "total": 2999.35
         },
         {
-            "id": 3,
+            "id": 4,
+            "idReserva" = 4,
             "fecha": "17/10/2023",
             "idCliente": 2,
             "detalles": [
