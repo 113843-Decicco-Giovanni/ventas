@@ -4,7 +4,7 @@
             "id": 1,
             "idReserva": 1,
             "fecha": "17/10/2023",
-            "idCliente": 0,
+            "idCliente": 87654321,
             "detalles": [
                 {
                     "idProducto": "d5d26be0-5760-4d0d-9dd6-0b5f7c21e97a",
@@ -32,7 +32,7 @@
             "id": 2,
             "idReserva": 2,
             "fecha": "15/10/2023",
-            "idCliente": 0,
+            "idCliente": 23456789,
             "detalles": [
                 {
                     "idProducto": "2",
