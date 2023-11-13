@@ -1,4 +1,10 @@
 {
+    "existencias":
+    [
+        "codigo": "algo",
+        "nombre": "Producto algo",
+        "total": 10
+    ]
     "ventas": [
         {
             "id": 1,
