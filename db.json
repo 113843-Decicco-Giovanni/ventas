@@ -1,6 +1,5 @@
 {
-    "existencias":
-    [
+    "existencias": [
         {
             "codigo": "algo",
             "nombre": "Producto algo",
