@@ -14,20 +14,20 @@
     "ventas": [
         {
             "id": 1,
-            "idReserva": 1,
+            "id_reserva": 1,
             "fecha": "17/10/2023",
-            "idCliente": 87654321,
+            "doc_cliente": 87654321,
             "detalles": [
                 {
-                    "idProducto": "d5d26be0-5760-4d0d-9dd6-0b5f7c21e97a",
+                    "cod_prod": "d5d26be0-5760-4d0d-9dd6-0b5f7c21e97a",
                     "descripcion": "Producto 1",
-                    "precioUnitario": 49.99,
+                    "precio_unitario": 49.99,
                     "cantidad": 2
                 },
                 {
-                    "idProducto": "9",
+                    "cod_prod": "9",
                     "descripcion": "Producto 3",
-                    "precioUnitario": 59.99,
+                    "precio_unitario": 59.99,
                     "cantidad": 2
                 }
             ],
@@ -42,20 +42,20 @@
         },
         {
             "id": 2,
-            "idReserva": 2,
+            "id_reserva": 2,
             "fecha": "15/10/2023",
-            "idCliente": 23456789,
+            "doc_cliente": 23456789,
             "detalles": [
                 {
-                    "idProducto": "2",
+                    "cod_prod": "2",
                     "descripcion": "Producto 2",
-                    "precioUnitario": 39.99,
+                    "precio_unitario": 39.99,
                     "cantidad": 3
                 },
                 {
-                    "idProducto": "16",
+                    "cod_prod": "16",
                     "descripcion": "Producto 4",
-                    "precioUnitario": 69.99,
+                    "precio_unitario": 69.99,
                     "cantidad": 1
                 }
             ],
@@ -70,26 +70,26 @@
         },
         {
             "id": 3,
-            "idReserva": 3,
+            "id_reserva": 3,
             "fecha": "17/10/2023",
-            "idCliente": 1,
+            "doc_cliente": 1,
             "detalles": [
                 {
-                    "idProducto": "2",
+                    "cod_prod": "2",
                     "descripcion": "Producto 2",
-                    "precioUnitario": 39.99,
+                    "precio_unitario": 39.99,
                     "cantidad": 5
                 },
                 {
-                    "idProducto": "9",
+                    "cod_prod": "9",
                     "descripcion": "Producto 3",
-                    "precioUnitario": 59.99,
+                    "precio_unitario": 59.99,
                     "cantidad": 2
                 },
                 {
-                    "idProducto": "23",
+                    "cod_prod": "23",
                     "descripcion": "Producto 5",
-                    "precioUnitario": 79.99,
+                    "precio_unitario": 79.99,
                     "cantidad": 5
                 }
             ],
@@ -99,14 +99,14 @@
         },
         {
             "id": 4,
-            "idReserva": 4,
+            "id_reserva": 4,
             "fecha": "17/10/2023",
-            "idCliente": 2,
+            "doc_cliente": 2,
             "detalles": [
                 {
-                    "idProducto": "23",
+                    "cod_prod": "23",
                     "descripcion": "Producto 5",
-                    "precioUnitario": 79.99,
+                    "precio_unitario": 79.99,
                     "cantidad": 1
                 }
             ],
