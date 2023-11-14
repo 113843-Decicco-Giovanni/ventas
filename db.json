@@ -37,8 +37,8 @@
                     "descripcion": "Descuento por cliente recurrente"
                 }
             ],
-            "subtotal": 299.94,
-            "total": 284.94
+            "subtotal": 219.96,
+            "total": 208.96
         },
         {
             "id": 2,
@@ -94,8 +94,8 @@
                 }
             ],
             "descuentos":[],
-            "subtotal": 2999.35,
-            "total": 2999.35
+            "subtotal": 719.88,
+            "total": 719.88
         },
         {
             "id": 4,
