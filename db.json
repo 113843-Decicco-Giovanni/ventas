@@ -4,6 +4,11 @@
             "codigo": "algo",
             "nombre": "Producto algo",
             "total": 10
+        },
+        {
+            "codigo": "P-CLA-001",
+            "nombre": "Clavo",
+            "total": 10000
         }
     ],
     "ventas": [
