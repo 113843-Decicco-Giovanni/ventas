@@ -101,7 +101,7 @@
             "id": 4,
             "id_reserva": 4,
             "fecha": "17/10/2023",
-            "doc_cliente": 45678901,
+            "doc_cliente": null,
             "detalles": [
                 {
                     "cod_prod": "23",
