@@ -33,7 +33,7 @@
             ],
             "descuentos":[
                 {
-                    "porcentaje": 5,
+                    "monto": 11,
                     "descripcion": "Descuento por cliente recurrente"
                 }
             ],
@@ -61,7 +61,7 @@
             ],
             "descuentos":[
                 {
-                    "porcentaje": 8,
+                    "monto": 15.19,
                     "descripcion": "Descuento por cliente recurrente"
                 }
             ],
@@ -112,7 +112,7 @@
             ],
             "descuentos":[
                 {
-                    "porcentaje": 7,
+                    "monto": 5.60,
                     "descripcion": "Descuento por cliente recurrente"
                 }
             ],
