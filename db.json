@@ -1,19 +1,19 @@
 {
     "existencias": [
         {
-            "codigo": "P-TUB-002",
-            "nombre": "Producto algo",
-            "total": 10
+            "code": "P-TUB-002",
+            "name": "Producto algo",
+            "stock": 10
         },
         {
-            "codigo": "P-CLA-001",
-            "nombre": "Clavo",
-            "total": 10000
+            "code": "P-CLA-001",
+            "name": "Clavo",
+            "stock": 10000
         },
         {
-            "codigo": "P-LLA-003",
-            "nombre": "Clavo",
-            "total": 10000
+            "code": "P-LLA-003",
+            "name": "Clavo",
+            "stock": 10000
         }
     ],
     "ventas": [
